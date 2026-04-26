@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=zhakix&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%26%20AI%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=zhakix&fontSize=80&fontColor=ffffff&fontAlignY=38" />
 
 <!-- Animated Typing Text -->
 <a href="https://github.com/zhakix">
