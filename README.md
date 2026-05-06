@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=zhakix&fontSize=80&fontColor=ffffff&fontAlignY=38" />
 
 <!-- Animated Typing Text -->
-<a href="https://github.com/Zhakix">
+<a href="https://github.com/zhakix">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=true&width=600&height=60&lines=console.log(%22Hello%2C+World!%22)+%F0%9F%91%8B;Building+the+web%2C+one+pixel+at+a+time+%F0%9F%8C%90;Training+models+%26+breaking+things+%F0%9F%A4%96;if+(coffee)+%7B+code()%3B+%7D+%F0%9F%8D%B5;AI+is+not+magic%2C+it%27s+just+math+%E2%9C%A8;Always+learning%2C+never+stopping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
